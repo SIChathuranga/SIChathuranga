@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIChathuranga
 - 👀 I’m interested in UI/UX Design, programming and any new things.
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning in Designing & programming
 - 💞️ I’m looking to collaborate on any things
 - 📫 How to reach me => email, social media
 - 😄 Pronouns: call me chathuranga
