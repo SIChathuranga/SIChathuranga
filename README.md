@@ -17,7 +17,7 @@
 [linkedin]: https://www.linkedin.com/in/Sanindu%20Imasha%20Chathuranga/
 [instagram]: https://instagram.com/s_i_chathuranga24/
 [facebook]: https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/
-[email]: mailto:s.i.chathuranga2001@gmail.com
+[email]: s.i.chathuranga2001@gmail.com
 
 <!---
 SIChathuranga/SIChathuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
