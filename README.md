@@ -16,33 +16,60 @@
 
 ## 🛠 Skills
 
+<!-- Skill Section -->
+<section id="skill" class="container mx-auto p-6 mt-8 bg-gray-900 shadow-lg rounded-lg">
+    <div class="text-center mb-6">
+        <div class="text-left mb-6">
+            <h2 class="text-3xl font-semibold text-white mb-4">Skills</h2>
+            <div class="w-16 h-1 bg-green-500 mx-left mt-2 rounded"></div>
+        </div>
+    </div>
+    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8 mt-4">
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" title="HTML5" alt="HTML5 Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="CSS3" alt="CSS3 Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" title="JavaScript" alt="JavaScript Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" title="Node Js" alt="Node Js Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919830.png" title="PHP" alt="PHP Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" title="MySQL" alt="MySQL Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919832.png" title="TypeScript" alt="TypeScript Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" title="C++" alt="C++ Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" title="Java" alt="Java Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" title="React" alt="React Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" title="Visual Studio" alt="Visual Studio Icon" class="w-full h-32 object-contain">
+        </div>
+        <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
+            <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" title="Github" alt="Github Icon" class="w-full h-32 object-contain">
+        </div>
+        
+    </div>
+    
+</section>
 
 
-[![HTML5](https://img.icons8.com/ios-filled/50/ffffff/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.icons8.com/ios-filled/50/ffffff/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.icons8.com/ios-filled/50/ffffff/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.icons8.com/ios-filled/50/ffffff/python.png)](https://www.python.org/)
-[![Kotlin](https://img.icons8.com/ios-filled/50/ffffff/kotlin.png)](https://kotlinlang.org/)
-
-
-
-[![React](https://img.icons8.com/ios-filled/50/ffffff/react-native.png)](https://reactjs.org/)
-[![Node.js](https://img.icons8.com/ios-filled/50/ffffff/nodejs.png)](https://nodejs.org/)
-[![Express.js](https://img.icons8.com/ios-filled/50/ffffff/express.png)](https://expressjs.com/)
-[![Django](https://img.icons8.com/ios-filled/50/ffffff/django.png)](https://www.djangoproject.com/)
-
-
-
-[![MongoDB](https://img.icons8.com/ios-filled/50/ffffff/mongodb.png)](https://www.mongodb.com/)
-[![MySQL](https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png)](https://www.mysql.com/)
-
-
-
-[![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/)
-[![Docker](https://img.icons8.com/ios-filled/50/ffffff/docker.png)](https://www.docker.com/)
-[![VSCode](https://img.icons8.com/ios-filled/50/ffffff/visual-studio-code-2019.png)](https://code.visualstudio.com/)
-[![Android Studio](https://img.icons8.com/ios-filled/50/ffffff/android-studio.png)](https://developer.android.com/studio)
-[![IntelliJ IDEA](https://img.icons8.com/ios-filled/50/ffffff/intellij-idea.png)](https://www.jetbrains.com/idea/)
 
 
 
