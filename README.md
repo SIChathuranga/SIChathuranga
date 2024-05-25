@@ -1,6 +1,7 @@
 ![LinkedIn Banner](https://media.licdn.com/dms/image/D5616AQHH86Ar-LB3iw/profile-displaybackgroundimage-shrink_350_1400/0/1714714880398?e=1721865600&v=beta&t=HRQ9tmyKktgmMnC6CKUg7mNrprtzYQNyw0qNo2uPnjo)
 
-- 👋 Hi, I’m @SIChathuranga
+- # 👋 Hello, I'm Sanindu Imasha Chathuranga
+
 - 👀 I’m interested in UI/UX Design, programming and any new things.
 - 🌱 I’m currently learning in designing & programming
 - 💞️ I’m looking to collaborate on any things
