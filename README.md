@@ -9,10 +9,10 @@
 
 - ## 📫 How to reach me => email, social media
 
-[![LinkedIn](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg)](https://www.linkedin.com/in/sanindu-imasha-chathuranga/)
-[![Instagram](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg)](https://instagram.com/s_i_chathuranga24/)
-[![Facebook](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/facebook.svg)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
-[![Email](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg)](mailto:s.i.chathuranga2001@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/sanindu-imasha-chathuranga/)
+[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://instagram.com/s_i_chathuranga24/)
+[![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
+[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:s.i.chathuranga2001@gmail.com)
 
 <!---
 SIChathuranga/SIChathuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
