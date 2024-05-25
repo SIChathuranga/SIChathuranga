@@ -17,14 +17,9 @@
 ## 🛠 Skills
 
 <!-- Skill Section -->
-<section id="skill" class="container mx-auto p-6 mt-8 bg-gray-900 shadow-lg rounded-lg">
-    <div class="text-center mb-6">
-        <div class="text-left mb-6">
-            <h2 class="text-3xl font-semibold text-white mb-4">Skills</h2>
-            <div class="w-16 h-1 bg-green-500 mx-left mt-2 rounded"></div>
-        </div>
-    </div>
-    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-8 mt-4">
+
+    
+    
         <div class="relative overflow-hidden rounded-lg shadow-md transition-transform transform hover:scale-105 hover:shadow-lg bg-white p-4 animate-fadeInUp">
             <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python Icon" class="w-full h-32 object-contain">
         </div>
@@ -65,9 +60,9 @@
             <img src="https://cdn-icons-png.flaticon.com/128/919/919847.png" title="Github" alt="Github Icon" class="w-full h-32 object-contain">
         </div>
         
-    </div>
     
-</section>
+    
+
 
 
 
