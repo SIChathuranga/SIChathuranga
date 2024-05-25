@@ -9,11 +9,10 @@
 
 - ## 📫 How to reach me => email, social media
 
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://www.linkedin.com/in/sanindu-imasha-chathuranga/)
-[![Instagram](https://img.icons8.com/ios-filled/50/000000/instagram-new.png)](https://instagram.com/s_i_chathuranga24/)
-[![Facebook](https://img.icons8.com/ios-filled/50/000000/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
-[![Email](https://img.icons8.com/ios-filled/50/000000/email.png)](mailto:s.i.chathuranga2001@gmail.com)
-
+[![LinkedIn](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://www.linkedin.com/in/sanindu-imasha-chathuranga/)
+[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://instagram.com/s_i_chathuranga24/)
+[![Facebook](https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
+[![Email](https://img.icons8.com/ios-filled/50/ffffff/email.png)](mailto:s.i.chathuranga2001@gmail.com)
 <!---
 SIChathuranga/SIChathuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
