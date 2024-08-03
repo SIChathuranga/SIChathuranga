@@ -41,19 +41,7 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaninduImashaChathuranga&theme=dark&show_icons=true&locale=en&layout=compact" alt="SaninduImashaChathuranga" /></p>
-</td>
-<td width="50%" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaninduImashaChathuranga&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SaninduImashaChathuranga" /></p>
-</td>
-</tr>
-</table>
-</p>
+
 
 
 
