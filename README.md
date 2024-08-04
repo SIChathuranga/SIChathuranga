@@ -1,4 +1,4 @@
-
+![Header](./mybanner.png)
 # 👋 Hello, I'm Sanindu Imasha Chathuranga
 
 - 👀 I'm interested in UI/UX Design, programming and any new things.
