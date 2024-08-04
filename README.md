@@ -27,7 +27,8 @@
 </p>
 <br>
 
-
+![](https://raw.githubusercontent.com/SIChathuranga/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SIChathuranga/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 <h3 align="center">Languages and Tools:</h3>
