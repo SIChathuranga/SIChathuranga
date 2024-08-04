@@ -15,6 +15,7 @@
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="illustration" width="300"/>
+  <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
 </p>
 
 <br/>
@@ -26,15 +27,6 @@
 </p>
 <br>
 
-<hr>
-<p align="left">
-  <a href="https://github.com/SIChathuranga">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIChathuranga&layout=compact&theme=dark&hide_border=true" />
-     <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
-    
-   
-  </a>
-</p>
 
 
 
