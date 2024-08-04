@@ -17,6 +17,16 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="illustration" width="300"/>
 </p>
 
+<br/>
+<p align="left">
+  <a href="https://github.com/SIChathuranga">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SIChathuranga&theme=dark&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
