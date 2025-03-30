@@ -12,12 +12,13 @@
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://linkedin.com/in/sanindu-imasha-chathuranga-1a8301237)
-[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://www.instagram.com/sani_im_242?utm_source=qr&igsh=MWxvbHczZGIxdXd2bg==)
+[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://www.instagram.com/sani_im_242)
 [![Facebook](https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
 [![Email](https://img.icons8.com/ios-filled/50/ffffff/email.png)](mailto:s.i.chathuranga2001@gmail.com)
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="illustration" width="300"/>
+
   <img width="35%" align="right" src= https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png>
 </p>
 
