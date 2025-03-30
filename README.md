@@ -12,7 +12,7 @@
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://linkedin.com/in/sanindu-imasha-chathuranga-1a8301237)
-[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)]([https://instagram.com/sani_im_242/](https://www.instagram.com/sani_im_242?utm_source=qr&igsh=MWxvbHczZGIxdXd2bg==))
+[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://www.instagram.com/sani_im_242?utm_source=qr&igsh=MWxvbHczZGIxdXd2bg==)
 [![Facebook](https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
 [![Email](https://img.icons8.com/ios-filled/50/ffffff/email.png)](mailto:s.i.chathuranga2001@gmail.com)
 
@@ -48,7 +48,8 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <
+img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
