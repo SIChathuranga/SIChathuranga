@@ -12,7 +12,7 @@
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://linkedin.com/in/sanindu-imasha-chathuranga-1a8301237)
-[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://instagram.com/sani_im_242/)
+[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)]([https://instagram.com/sani_im_242/](https://www.instagram.com/sani_im_242?utm_source=qr&igsh=MWxvbHczZGIxdXd2bg==))
 [![Facebook](https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
 [![Email](https://img.icons8.com/ios-filled/50/ffffff/email.png)](mailto:s.i.chathuranga2001@gmail.com)
 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
+
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
