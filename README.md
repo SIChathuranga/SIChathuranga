@@ -28,7 +28,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SIChathuranga&theme=dark&hide_border=true" />
   </a>
 </p>
-<br>
 
 ### Frameworks and Libraries
 <p>
