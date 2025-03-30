@@ -12,7 +12,7 @@
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.icons8.com/ios-filled/50/ffffff/linkedin.png)](https://linkedin.com/in/sanindu-imasha-chathuranga-1a8301237)
-[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://instagram.com/s_i_chathuranga24/)
+[![Instagram](https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png)](https://instagram.com/sani_im_242/)
 [![Facebook](https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png)](https://facebook.com/sanindu.imasha?mibextid=ZbWKwL&_rdc=1&_rdr/)
 [![Email](https://img.icons8.com/ios-filled/50/ffffff/email.png)](mailto:s.i.chathuranga2001@gmail.com)
 
