@@ -20,16 +20,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sanindu-imasha-chathuranga-1a8301237">
-    <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="42"/>
   </a>
   <a href="https://www.instagram.com/sani_im_242">
-    <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="42"/>
   </a>
   <a href="https://facebook.com/sanindu.imasha">
-    <img src="https://img.icons8.com/ios-filled/50/facebook-new.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/facebook-new.png" width="42"/>
   </a>
   <a href="mailto:s.i.chathuranga2001@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/email.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/email.png" width="42"/>
   </a>
 </p>
 
@@ -38,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SIChathuranga&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIChathuranga&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,4 +95,3 @@
 </p>
 
 ---
-
