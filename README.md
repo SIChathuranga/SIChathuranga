@@ -41,14 +41,11 @@
 
 <p align="center">
   <!-- Main GitHub Stats (Alternative Source - Reliable) -->
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/SIChathuranga"> <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=dark&hide_border=true" />
 
 
   <!-- Streak Stats -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIChathuranga&theme=tokyonight&hide_border=true" />
-
-  <!-- Added extra data visual component -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIChathuranga&theme=tokyonight" width="49%" />
 
 
 </p>
