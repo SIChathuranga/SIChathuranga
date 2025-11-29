@@ -49,7 +49,8 @@
 </p>
 
 <!-- Added extra data visual component -->
-<img src="https://metrics.lecoq.io/SIChathuranga?template=classic&base.indepth=true&config.timezone=Asia%2FColombo" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIChathuranga&theme=tokyonight" width="49%" />
+
 
 ---
 
