@@ -46,10 +46,14 @@
 
   <!-- Streak Stats -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIChathuranga&theme=tokyonight&hide_border=true" />
+
+  <!-- Added extra data visual component -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIChathuranga&theme=tokyonight" width="49%" />
+
+
 </p>
 
-<!-- Added extra data visual component -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIChathuranga&theme=tokyonight" width="49%" />
+
 
 
 ---
