@@ -42,9 +42,7 @@
 <p align="center">
   <!-- Main GitHub Stats (Alternative Source - Reliable) -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight&hide_border=true" />
-<a href="https://github.com/SIChathuranga/github-readme-stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight" />
-</a>
+
 
 
   <!-- Streak Stats -->
