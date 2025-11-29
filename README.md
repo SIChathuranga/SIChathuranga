@@ -49,9 +49,7 @@
 </p>
 
 <!-- Added extra data visual component -->
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIChathuranga&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://metrics.lecoq.io/SIChathuranga?template=classic&base.indepth=true&config.timezone=Asia%2FColombo" width="100%" />
 
 ---
 
