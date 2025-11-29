@@ -1,7 +1,7 @@
   ![Header](mybanner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hello+I'm+Sanindu+Imasha+Chathuranga;Full+Stack+Developer+in+Progress;Tech+Enthusiast+and+UI%2FUX+Learner;Always+Learning+Always+Building+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hello+I'm+Sanindu+Imasha+Chathuranga;Full+Stack+Developer+in+Progress;Tech+Enthusiast+and+System+Infrastructure+Learner;Always+Learning+Always+Building+New+Things" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 ---
 
 ### 👋 About Me
-- 👀 Interested in UI and UX design, programming and exploring new ideas  
+- 👀 Interested in System Infrastructure, programming and exploring new ideas  
 - 🌱 Learning design and software development  
 - 💞️ Open to collaboration  
-- 😄 You can call me Chathuranga  
+- 😄 You can call me "SANI"  
 
 ---
 
