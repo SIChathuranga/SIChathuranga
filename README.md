@@ -42,7 +42,10 @@
 <p align="center">
   <!-- Main GitHub Stats (Alternative Source - Reliable) -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight&hide_border=true" />
-[![Sanindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight)](https://github.com/SIChathuranga/github-readme-stats)
+<a href="https://github.com/SIChathuranga/github-readme-stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight" />
+</a>
+
 
   <!-- Streak Stats -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIChathuranga&theme=tokyonight&hide_border=true" />
