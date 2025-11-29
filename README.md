@@ -1,6 +1,8 @@
 ![Header](mybanner.png)
 
-<h1 align="center">Hello, I'm Sanindu Imasha Chathuranga</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hello+I'm+Sanindu+Imasha+Chathuranga;Full+Stack+Developer+in+Progress;Tech+Enthusiast+and+UI%2FUX+Learner;Always+Learning+Always+Building" />
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" alt="programmer gif">
