@@ -41,12 +41,13 @@
 
 <p align="center">
   <!-- Main GitHub Stats (Alternative Source - Reliable) -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
+<img src="https://github-readme-stats.vercel.app/apiusername=SIChathuranga&theme=midnightpurple&show_icons=true&hide_border=true&count_private=true" alt="SIChathuranga's GitHub Stats" />
 
   <!-- Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIChathuranga&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true" alt="SIChathuranga's GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIChathuranga&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="SIChathuranga's GitHub Stats" />
 
 
 </p>
