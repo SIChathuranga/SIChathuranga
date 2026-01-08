@@ -49,6 +49,9 @@
   <img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true"/>
 </div>
 
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SIChathuranga)
+
+
 ## 📊 GitHub Metrics
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SIChathuranga1&theme=dark)](https://git.io/streak-stats)
