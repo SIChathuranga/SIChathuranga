@@ -49,6 +49,11 @@
   <img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true"/>
 </div>
 
+## 📊 GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/SIChathuranga?theme=dark)
+
+
 
 </p>
 
