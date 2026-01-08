@@ -39,16 +39,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- Main GitHub Stats (Alternative Source - Reliable) -->
-<img src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-
-  <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIChathuranga&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&theme=midnight-purple&show_icons=true&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIChathuranga&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true" height="180" alt="streak graph" />
+</div>
 
 </p>
 
