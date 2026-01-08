@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/SIChathuranga?theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SIChathuranga1&theme=dark)](https://git.io/streak-stats)
 
 <picture>
   <source
