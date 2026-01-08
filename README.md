@@ -40,16 +40,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+  ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SIChathuranga)
+  <img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=SIChathuranga&theme=midnight-purple&show_icons=true&hide_border=true&cache_seconds=1800" height="180"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIChathuranga&theme=midnight-purple&hide_border=true&layout=compact&cache_seconds=1800" height="180"/>
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com?user=SIChathuranga&theme=midnight-purple&hide_border=true"/>
+  
 </div>
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=SIChathuranga)
+
 
 
 ## 📊 GitHub Metrics
